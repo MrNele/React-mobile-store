@@ -4,7 +4,6 @@ import "./index.css";
 import App from "./App";
 import { BrowserRouter as Router } from "react-router-dom";
 import { ProductProvider } from "./context";
-import * as registerServiceWorker from "./registerServiceWorker";
 
 ReactDOM.render(
   <ProductProvider>

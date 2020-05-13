@@ -28,7 +28,6 @@ export default function CartColumns() {
         <div className="col-10 mx-auto col-lg-2">
           <p className="text-uppercase">total</p>
         </div>
-
       </div>
     </div>
   );
